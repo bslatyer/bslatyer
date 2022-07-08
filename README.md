@@ -1,4 +1,4 @@
-# Hi there 👋🏻, I'm Braeden
+# Hi there 👋🏻
 
 ### About Me
 <!-- wp:paragraph -->
