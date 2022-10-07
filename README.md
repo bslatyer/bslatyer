@@ -1,29 +1,17 @@
 # Hi there 👋🏻
 
 ### About Me
-<!-- wp:paragraph -->
-<p>I’m Braeden, a Support Engineer with Origin84 and CorpOps Technician with Dropbox based in Sydney, Australia.</p>
-<!-- /wp:paragraph -->
+I’m Braeden, an IT Corporate Operations Technician (CorpOps Technician) with [Dropbox](https://github.com/dropbox) and an IT Support Engineer with [Origin84](https://github.com/Origin84).
 
-<!-- wp:paragraph -->
-<p>I started having an interest in computers when I was a very young age. I grew up in the age of dial-up internet, fax machines and Windows XP (many of you may not know what I'm talking about).</p>
-<!-- /wp:paragraph -->
+I started having an interest in computers when I was a very young age. I grew up in the age of dial-up internet, fax machines and Windows XP (many of you may not know what I’m talking about).
 
-<!-- wp:paragraph -->
-<p>I loved the idea of creating apps, doing photography, and creating content. In school, this was my hobby.</p>
-<!-- /wp:paragraph -->
+I loved the idea of creating apps, doing photography, and creating content. In school, this was my hobby.
 
-<!-- wp:paragraph -->
-<p>So I pursued studying a Bachelor of Computer Science (Cyber Security) at the University of Wollongong to make it my career. I have never looked back since.</p>
-<!-- /wp:paragraph -->
+So I pursued studying a Bachelor of Computer Science (Cyber Security) at the University of Wollongong to make it my career. I have never looked back since.
 
-<!-- wp:paragraph -->
-<p>My ultimate goal in my career is to be a Cyber Security Engineer and/or a Chief Information Security Officer.</p>
-<!-- /wp:paragraph -->
+My ultimate goal in my career is to be a Cyber Security Engineer (CSE) or a Chief Information Security Officer (CISO).
 
-<!-- wp:paragraph -->
-<p>Present-day, I am currently working in the Information Technology industry with a bunch of amazing hard-working people and the teams that they form.</p>
-<!-- /wp:paragraph -->
+I am currently working in the Information Technology industry with many unique, hard-working people and the teams they form.
 
 ### My Website
 [https://braeden.au](link)
