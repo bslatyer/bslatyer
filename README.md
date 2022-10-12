@@ -1,7 +1,7 @@
 # Hi there 👋🏻
 
 ### About Me
-I’m Braeden, an IT Corporate Operations Technician (CorpOps Technician) with [Dropbox](https://github.com/dropbox) and an IT Support Engineer with [Origin84](https://github.com/Origin84).
+I’m Braeden, a Corporate Operations Technician (CorpOps Technician) with [Dropbox](https://github.com/dropbox) and an IT Support Engineer with [Origin84](https://github.com/Origin84).
 
 I started having an interest in computers when I was a very young age. I grew up in the age of dial-up internet, fax machines and Windows XP (many of you may not know what I’m talking about).
 
