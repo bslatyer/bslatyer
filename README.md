@@ -1,9 +1,11 @@
 # Hi there 👋🏻
 
 ### About Me
-I’m Braeden, a Corporate Operations Technician (CorpOps Technician) with [Dropbox](https://dropbox.com) and an IT Support Engineer with [Origin84](https://origin84.com).
+I’m Braeden, an IT Support Engineer with [Origin84](https://origin84.com).
 
-I started having an interest in computers when I was a very young age. I grew up in the age of dial-up internet, fax machines and Windows XP (many of you may not know what I’m talking about).
+I started having an interest in computers when I was at a very young age. 
+
+I grew up in the age of dial-up internet, fax machines and Windows XP (many of you may not know what I’m talking about).
 
 I loved the idea of creating apps, doing photography, and creating content. In school, this was my hobby.
 
