@@ -1,8 +1,6 @@
 # Hi there 👋🏻
 
 ### About Me
-I’m Braeden, an IT Support Engineer with [Origin84](https://origin84.com).
-
 I started having an interest in computers when I was at a very young age. 
 
 I grew up in the age of dial-up internet, fax machines and Windows XP (many of you may not know what I’m talking about).
@@ -13,7 +11,7 @@ So I pursued studying a Bachelor of Computer Science (Cyber Security) at the Uni
 
 My ultimate goal in my career is to be a Cyber Security Engineer (CSE) or a Chief Information Security Officer (CISO).
 
-I am currently working in the Information Technology industry with many unique, hard-working people and the teams they form.
+I am currently looking for work in the Information Technology industry.
 
 ### My Website
 [https://slats.au](https://slats.au)
