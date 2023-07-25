@@ -1,18 +1,5 @@
 # Hi there 👋🏻
 
-### About Me
-I started having an interest in computers when I was at a very young age. 
-
-I grew up in the age of dial-up internet, fax machines and Windows XP (many of you may not know what I’m talking about).
-
-I loved the idea of creating apps, doing photography, and creating content. In school, this was my hobby.
-
-So I pursued studying a Bachelor of Computer Science (Cyber Security) at the University of Wollongong to make it my career. I have never looked back since.
-
-My ultimate goal in my career is to be a Cyber Security Engineer (CSE) or a Chief Information Security Officer (CISO).
-
-I am currently looking for work in the Information Technology industry.
-
 ### My Website
 [https://slats.au](https://slats.au)
 
