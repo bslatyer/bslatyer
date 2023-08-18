@@ -4,4 +4,4 @@
 [https://slats.au](https://slats.au)
 
 ### My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bslatyer&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bslatyer\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github&show_icons=true)
