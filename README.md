@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 
-I’m Braeden. I’m passionate about software and product design.
+I’m Braeden, a Professional Troublemaker and Systems Engineer at CompNow.
 
 ### My Website
 [https://slats.io](https://slats.io)
