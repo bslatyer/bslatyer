@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Braeden, from the NSW Southern Highlands.<br><br>- 💼 I’m working as a Systems Engineer at CompNow<br>- 🎓 I'm currently studying a Bachelor of Computer Science (Cyber/Computer Forensics and Counterterrorism) at the University of Wollongong</p>
+<p align="left">I'm Braeden, from the NSW Southern Highlands.<br><br>- 💼 I’m currently working remotely as a Systems Engineer at Computers Now (CompNow)<br>- 🎓 I'm currently studying a Bachelor of Computer Science (Cyber/Computer Forensics and Counterterrorism) at the University of Wollongong</p>
 
 ###
 
