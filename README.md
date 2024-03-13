@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D5603AQEahniEdgKGdQ/profile-displayphoto-shrink_800_800/0/1678147906324?e=1715817600&v=beta&t=ISXLt9FCKe6UpJxUuCqpaFESLal5UyYPnxPjBODS62E"  />
-</div>
+###
+
+<h1 align="center">Hey there 👋🏻</h1>
+
+###
 
 ###
 
@@ -24,15 +26,15 @@
 
 ###
 
-<h1 align="center">Hey there</h1>
+<h1 align="center"></h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨🏻‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Braeden, from the NSW Southern Highlands.<br><br>- 🔭 I’m working as a Systems Engineer at CompNow<br>- 📚 I'm currently studying a Bachelor of Computer Science (Cyber/Computer Forensics and Counterterrorism) at the University of Wollongong <br></p>
+<p align="left">I'm Braeden, from the NSW Southern Highlands.<br><br>- 💼 I’m working as a Systems Engineer at CompNow<br>- 🎓 I'm currently studying a Bachelor of Computer Science (Cyber/Computer Forensics and Counterterrorism) at the University of Wollongong <br></p>
 
 ###
 
@@ -76,7 +78,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
