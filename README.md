@@ -5,7 +5,7 @@
 <p align="left">
   <be>
   🏡 I'm from Sydney, Australia. <br>
-  💼 I’m currently working remotely as a Systems Engineer at Computers Now (CompNow) <br>
+  💼 I’m currently working remotely as a Senior Systems Engineer at Computers Now (CompNow) <br>
   🎓 I'm currently studying a Bachelor of Computer Science (Cyber/Computer Forensics and Counterterrorism) at the University of Wollongong
 </p>
 
