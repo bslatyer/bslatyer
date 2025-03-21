@@ -1,6 +1,6 @@
 ````bash
 > help --info
-> Professional Troublemaker at Computers Now (CompNow)
+> Founder at Preflight.io
 ````
 
 ````bash
