@@ -1,8 +1,8 @@
 ````bash
 > help --contact
-> linkedin: braedenslatyer
-> instagram: braeden_slatyer
-> twitter: braeden_slatyer
+> linkedin: in/braedenslatyer
+> instagram: @braeden_slatyer
+> twitter: @braeden_slatyer
 > mailto: hello@slats.io
 ````
 
