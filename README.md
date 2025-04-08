@@ -1,9 +1,4 @@
 ````bash
-> help --info
-> Founder at Preflight.io
-````
-
-````bash
 > help --contact
 > linkedin: braedenslatyer
 > instagram: braeden_slatyer
