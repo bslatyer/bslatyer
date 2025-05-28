@@ -2,11 +2,10 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 */3 * * *"          # every 3 hours
+    - cron: "0 */3 * * *"
   workflow_dispatch:
   push:
     branches:
-      - master
       - main
 
 jobs:
@@ -21,20 +20,17 @@ jobs:
       cancel-in-progress: true
 
     steps:
-      # 1 · Checkout using your PAT so the push is attributed to you
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-      # 2 · Cache Metrics dependencies
       - name: Cache dependencies
         uses: actions/cache@v4
         with:
           path: ~/.cache
           key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
 
-      # 3 · Run Metrics without auto-committing
       - name: Generate GitHub Metrics SVG
         uses: lowlighter/metrics@latest
         with:
@@ -43,7 +39,7 @@ jobs:
           user: bslatyer
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Australia/Sydney
+          config_timezone: UTC
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -59,12 +55,10 @@ jobs:
           plugin_traffic: yes
           plugin_wakatime: no
 
-      # 4 · Copy rendered file(s) into the repo
       - name: Move freshly rendered files
         run: |
           cp -f /metrics_renders/* ./ || true
 
-      # 5 · Configure SSH signing
       - name: Configure SSH signing
         env:
           SSH_SIGNING_KEY: ${{ secrets.SSH_SIGNING_KEY }}
@@ -80,7 +74,6 @@ jobs:
           git config --global commit.gpgsign true
           git config --global gpg.ssh.program /usr/bin/ssh-keygen
 
-      # 6 · Commit & push (SSH-signed) only if something changed
       - name: Commit & push (signed)
         run: |
           git add -A
